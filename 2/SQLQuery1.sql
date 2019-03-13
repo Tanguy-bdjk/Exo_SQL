@@ -1,0 +1,3 @@
+CREATE TABLE languages(
+id INT PRIMARY KEY IDENTITY(0,1),
+language NVARCHAR);
